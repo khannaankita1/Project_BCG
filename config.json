@@ -1,0 +1,27 @@
+{
+  "INPUT_FILENAME": {
+    "Charges": "C:/Users/ankita.khanna/Desktop/Project/Data/Charges_use.csv",
+    "Damages": "C:/Users/ankita.khanna/Desktop/Project/Data/Damages_use.csv",
+    "Endorse": "C:/Users/ankita.khanna/Desktop/Project/Data/Endorse_use.csv",
+    "Primary_Person": "C:/Users/ankita.khanna/Desktop/Project/Data/Primary_Person_use.csv",
+    "Units": "C:/Users/ankita.khanna/Desktop/Project/Data/Units_use.csv",
+    "Restrict": "C:/Users/ankita.khanna/Desktop/Project/Data/Restrict_use.csv"
+  },
+  
+  "FILE_FORMAT": {
+    "Output": "csv"
+  },
+ "OUTPUT_PATH":{
+	"1": "C:/Users/ankita.khanna/Desktop/Project/Output/1",
+    "2": "C:/Users/ankita.khanna/Desktop/Project/Output/2",
+    "3": "C:/Users/ankita.khanna/Desktop/Project/Output/3",
+    "4": "C:/Users/ankita.khanna/Desktop/Project/Output/4",
+    "5": "C:/Users/ankita.khanna/Desktop/Project/Output/5",
+    "6": "C:/Users/ankita.khanna/Desktop/Project/Output/6",
+    "7": "C:/Users/ankita.khanna/Desktop/Project/Output/7",
+    "8": "C:/Users/ankita.khanna/Desktop/Project/Output/8",
+    "9": "C:/Users/ankita.khanna/Desktop/Project/Output/9",
+    "10":"C:/Users/ankita.khanna/Desktop/Project/Output/10"
+	 
+ }
+}
